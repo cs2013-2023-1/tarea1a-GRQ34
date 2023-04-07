@@ -12,6 +12,7 @@ friend Matriz2D operator+(const Matriz2D&, float);
 friend Matriz2D operator-(const Matriz2D&, float);
 friend Matriz2D operator*(const Matriz2D&, float);
 friend Matriz2D operator/(const Matriz2D&, float);
+void construir();
 public:
     Matriz2D();
     Matriz2D(int);

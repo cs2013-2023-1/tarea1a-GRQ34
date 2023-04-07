@@ -1,9 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/1exoi_GJ)
 # :wave: PROGRAMACION III: TAREA 1A
 
-- Apellidos: *Completar*
-- Nombres: *Completar*
-- Sección: *Completar*
+- Apellidos: *Rosales Quino*
+- Nombres: *Germán Alejandro*
+- Sección: *1.01*
 
 En la presente tarea usted debe **modificar/completar** los archivos dentro de la carpeta <tt>tarea</tt>.
 
